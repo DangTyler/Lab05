@@ -3,6 +3,8 @@
 #include <string>
 #include "StringData.h"
 
+// Commit #2
+
 using namespace std;
 
 int linear_search(const vector<string>& container, const string& element) {
